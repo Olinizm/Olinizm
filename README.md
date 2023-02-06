@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Name's Ola
+
+- 🌱 I’m currently learning C#, mySQL, Python and PHP
+- 📫 Reach me on discord Olinizm#9998
+
