@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Name's Ola
 
 - 🌱 I’m currently learning Unity, C#, mySQL and Python
-- 📫 Reach me on discord Olinizm#9998
+- 📫 Don't reach me, thx <3
 
