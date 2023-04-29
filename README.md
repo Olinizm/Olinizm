@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Name's Ola
 
-- 🌱 I’m currently learning Unity, C++, and mySQL
-- 🔭 I’m currently working on my game dev portfolio
+- 🌱 I’m currently learning Unity, C++, and OSDev
+- 🔭 Currently working on my game dev portfolio
 - 📫 Don't reach me, thx <3
 
